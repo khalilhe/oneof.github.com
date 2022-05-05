@@ -1,0 +1,151 @@
+body{
+    overflow-x: hidden;
+}
+.a{
+    background-color: white;
+    color: black;
+    position: absolute;
+    right: 400px;
+    bottom:140px;
+    width: 750px;
+    height:60px;
+    font-size: 25px;
+    text-align: center;
+    border: none;
+}
+.a:hover{
+    color:rgb(43, 0, 255);
+    text-align: left;
+    border:none;
+}
+div{
+    background-repeat: no-repeat;
+    width: 1700px;
+    height: 1000px;
+    overflow:hidden;
+    margin-left: -15px;
+    margin-top: -20px;
+     
+}
+div img{
+    filter:brightness(50%);
+    width: 1700px;
+    height: 1000px;
+}
+.b{
+    background-color: red;
+    color:white;
+    position: absolute;
+    bottom: 140px;
+    right: 370px;
+    width: 200px;
+    height:62px;
+    font-size: 32px;
+    cursor: pointer;
+    border-width: 2px;
+    border-color: red;
+    
+
+}
+.c{
+    background-color: red;
+    color:white;
+    position: absolute;
+    top: 42px;
+    right: 60px;
+    width: 80px;
+    height:33px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 17px;
+    border: none;
+}
+.d{
+    color:white;
+    font-size: 75px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    right: 430px;
+    bottom:330px;
+
+}
+.e{
+    color:white;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    right: 600px;
+    bottom:300px;
+}
+.f{
+    color:white;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    right: 560px;
+    bottom:250px;
+}
+.g{
+    color:white;
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    right: 400px;
+    bottom:195px; 
+}
+select{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 42px;
+    right: 170px;
+    width: 80px;
+    height:33px;
+    border-radius: 7px;
+    border-width: 1px;
+    border-color: white;
+}
+select option{
+    background-color: gray;
+}
+.k{
+  background-color: #333;
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  right: 500px;
+
+}
+.h{
+    background-color: transparent;
+    width: 400px;
+    height: 200px;
+}
+.i{
+    background-color: #333;
+    display: block;
+    color: white;
+    margin: 10px;
+    width: 100px;
+    height: 25px;
+    position: absolute;
+    right: ;
+}
+h2{
+    color:white;
+    position: absolute;
+    right: 500px;
+
+    
+}
+h1{
+    color:black;
+    position: absolute;
+    top: 1px;
+    left: 20px;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+
